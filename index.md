@@ -1,13 +1,9 @@
 # Yuancheng's DSC180A Methodology Assignment 5
 
 **Name**: Yuancheng (Kaleo) Cao
-
 **Email**: yuc094@ucsd.edu
-
 **Section**: A10
-
 **Section Title**: Ethical Considerations in Using Artificial Intelligence
-
 **Mentor**: Emily Ramond and Greg Thein
 
 
